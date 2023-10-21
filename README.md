@@ -26,3 +26,6 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+## Acknowledgements
+
+This project is based on the "Haunted House" project from the "Three.js Journey" course.
